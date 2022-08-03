@@ -46,6 +46,6 @@ The percentage of non Vine reviews - 53.63%
 Below screen shows the same for the dataset.
 ![Screen Shot 2022-08-03 at 5 29 41 PM](https://user-images.githubusercontent.com/98556229/182723434-4d48f654-0184-4403-bf7c-aa6144d07b5d.png)
 
-# Summary
+## Summary
 Based on the above results it shows that there is slight differnce between ratings provided by Vine and Non-Vine members (less than10%) therefore it shows that there is no bias when rating their products, hence we can assume that customers are critical with their review.
 May be we can remove one of the condition of filter used above to see if the results remain same or their is positive or negative bias of reviews.
